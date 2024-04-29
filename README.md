@@ -18,7 +18,7 @@ Download de Dados: Os utilizadores têm a opção de fazer download dos conjunto
 
 **Execução da Aplicação:**
 
-- Execute o arquivo app.py usando o Streamlit: streamlit run app.py.
+- Execute o comando streamlit run nome_do_arquivo.py no terminal, onde nome_do_arquivo.py é o nome do arquivo do aplicativo Streamlit. No terminal execute o comando **streamlit run 0_💻_Top 1000s in IMDB.py**. Para evitar problemas com caracteres, digite streamlit run 0 e pressione a tecla "tab" para completar a ordem.
 
 - A aplicação será aberta no seu navegador padrão.
 
@@ -35,3 +35,8 @@ Download de Dados: Os utilizadores têm a opção de fazer download dos conjunto
 ## **Conjuntos de Dados**
 
 Os dados utilizados nesta aplicação foram obtidos do [Kaggle](https://www.kaggle.com/datasets/ramjasmaurya/top-250s-in-imdb), uma plataforma online que hospeda conjuntos de dados de diversas fontes. Os conjuntos de dados incluem informações detalhadas sobre filmes e séries, como títulos, anos de lançamento, elenco, géneros, classificações e muito mais.
+
+**Autores**
+
+- Ana Beatriz Fernandes Pinho
+- Beatriz de Almeida Gomes
