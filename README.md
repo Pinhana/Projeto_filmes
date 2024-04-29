@@ -12,25 +12,25 @@ Download de Dados: Os utilizadores têm a opção de fazer download dos conjunto
 
 **Instalação das Dependências:**
 
-Certifique-se de ter o Python instalado.
+- Certifique-se de ter o Python instalado.
 
-Instale as dependências necessárias executando pip install -r requirements.txt.
+- Instale as dependências necessárias executando pip install -r requirements.txt.
 
 **Execução da Aplicação:**
 
-Execute o arquivo app.py usando o Streamlit: streamlit run app.py.
+- Execute o arquivo app.py usando o Streamlit: streamlit run app.py.
 
-A aplicação será aberta no seu navegador padrão.
+- A aplicação será aberta no seu navegador padrão.
 
 **Exploração dos Dados:**
 
-Navegue entre as diferentes secções para explorar filmes e séries.
+- Navegue entre as diferentes secções para explorar filmes e séries.
 
-Utilize os filtros disponíveis para refinar os resultados de acordo com as suas preferências.
+- Utilize os filtros disponíveis para refinar os resultados de acordo com as suas preferências.
 
 **Download de Dados:**
 
-Utilize os botões de download para baixar os conjuntos de dados de filmes e séries.
+- Utilize os botões de download para baixar os conjuntos de dados de filmes e séries.
 
 ## **Conjuntos de Dados**
 
